@@ -1,8 +1,7 @@
 # Hacktoberfest2017
 > My first **Hacktoberfest** !
 
----
-## Projects I worked on :
+## Projects I worked on during Hacktoberfest :
 
 * [All-in-One-Crypto-Market-API](https://github.com/OFarukCaki/All-in-One-Crypto-Market-API)
 * [minicheatsheets](https://github.com/hanapotski/minicheatsheets)
