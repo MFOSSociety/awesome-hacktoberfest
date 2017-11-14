@@ -9,4 +9,9 @@
 * [name-db](https://github.com/bluzi/name-db)
 * [opencv-flask](https://github.com/adamshamsudeen/opencv-flask)
 
+More : 
+
+https://github.com/OFarukCaki/All-in-One-Crypto-Market-API/graphs/contributors
+
+https://github.com/hanapotski/minicheatsheets/graphs/contributors
 ---
