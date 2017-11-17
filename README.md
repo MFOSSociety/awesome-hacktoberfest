@@ -12,7 +12,7 @@
 **More :** 
 
 
-| **Repo**       | **URL**           |
+| **Repositories**       | **URL**           |
 | --- |--- |
 | **name-db**      | https://github.com/bluzi/name-db/graphs/contributors |
 | **All-in-One-Crypto-Market-API**      | https://github.com/OFarukCaki/All-in-One-Crypto-Market-API/graphs/contributors |
