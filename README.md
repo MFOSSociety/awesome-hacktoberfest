@@ -9,7 +9,7 @@
 * **[name-db](https://github.com/bluzi/name-db)**
 * **[opencv-flask](https://github.com/adamshamsudeen/opencv-flask)**
 
-**More :** 
+**Extensive Breakdown :** 
 
 
 | **Repositories**       | **URL**           |
