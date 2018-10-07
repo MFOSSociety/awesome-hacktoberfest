@@ -2,7 +2,7 @@
 
 # Hacktoberfest
 
-> Let's add our achievemnts. Listing the repositories we contributed during all five generations of #Hacktoberfest.
+> Let's add our achievements. Listing the repositories we contributed during all five generations of #Hacktoberfest.
 
 
 
