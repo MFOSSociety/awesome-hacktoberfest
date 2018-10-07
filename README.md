@@ -9,6 +9,6 @@
 
 | Name       | Codename   | Link                                                     | Github Link                                          |
 |------------|------------|----------------------------------------------------------|------------------------------------------------------|
-| **Piyush Raj** | **@0x48piraj** | [contributions/0x48piraj.md](contributions/0x48piraj.md) | [github.com/0x48piraj](https://github.com/0x48piraj) |
-|            |            |                                                          |                                                      |
+| **Piyush Raj** | **@0x48piraj** | [contributions/0x48piraj.md](contributions/0x48piraj.md) | [github.com/0x48piraj](https://github.com/0x48piraj) | 
+| **Gabriela Stefanie** | **@stgabi** | [contributions/stgabi.md](contributions/stgabi.md)   |                                    [github.com/stgabi](https://github.com/stgabi) |
 |            |            |                                                          |                                                      |
